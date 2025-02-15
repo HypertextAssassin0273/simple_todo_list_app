@@ -1,3 +1,2 @@
-# my_todo_list_app
-
-A new Flutter project.
+# My Todo List App (SMD Classwork#2)
+A simple Todo List App using Flutter widgets (built with hard-coded List items)
